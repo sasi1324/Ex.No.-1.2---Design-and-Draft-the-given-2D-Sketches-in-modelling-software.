@@ -36,6 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+![Screenshot 2023-12-27 181424](https://github.com/sasi1324/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/150313315/b884e20d-6f3a-4bb7-a608-064e544992f1)
  
 
  
